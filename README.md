@@ -51,11 +51,14 @@ pip install -r requirements.txt
 ## Citation
 If you use this code or data in your research, please cite our paper:
 ```bash
-@article{Author2024,
-  title={Exploring Facial Biomarkers for Depression through Temporal Analysis of Action Units},
-  author={Author Name and Collaborator Name},
-  journal={arXiv preprint arXiv:2407.13753},
-  year={2024}
+@misc{parikh2024exploringfacialbiomarkersdepression,
+      title={Exploring Facial Biomarkers for Depression through Temporal Analysis of Action Units}, 
+      author={Aditya Parikh and Misha Sadeghi and Bjorn Eskofier},
+      year={2024},
+      eprint={2407.13753},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.13753}, 
 }
 ```
 ## License
